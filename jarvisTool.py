@@ -29,6 +29,18 @@ def speak(text):
 speak("Hello How Are You? ")
 
 
+def wishMe():
+      hour = int(datetime.datetime.now().hour)
+      if hour>=0 and hour<12:
+            speak("Good Morning! Please tell me how may I help you")
+
+      elif hour>=12 and hour<18:
+            speak("Good Afternoon! Please tell me how may I help you")
+      else:
+            speak("Good Evening!")
+            speak("I am Jarvis Sir. Please tell me how may I help you")
+
+
 
 def takeCommand():
     r=sr.Recognizer()
@@ -49,6 +61,7 @@ def takeCommand():
 
 
 if __name__ == '__main__':
+      wishMe()
     while True:
         query=takeCommand().lower()
         ans=Reply(query)
