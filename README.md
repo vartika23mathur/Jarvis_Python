@@ -12,7 +12,8 @@ It often requires a combination of software development, machine learning and da
 <b>• Mentors:</b> Mr. Ayushman Pranav, Dr. Pankaj Mishra
 ## Observation
 •	A well-designed Jarvis AI system can significantly enhance efficiency by automating routine tasks, managing schedules, and responding to queries. Users may observe time savings and reduced manual efforts.<br>•The accuracy of voice recognition can impact user satisfaction. An observation might include improvements in voice recognition over time, leading to more accurate responses.<br>•	As the user base grows, the AI system should maintain its responsiveness and scalability, ensuring a consistent experience for users.<br>•The AI's knowledge base can impact the quality of responses. Users may notice improvements in the system's ability to provide accurate information and answer questions correctly.
-## Repoaitory Link 
+## Repository Link 
+https://github.com/vartika23mathur/Jarvis_Python
 
 
 
