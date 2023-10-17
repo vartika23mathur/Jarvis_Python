@@ -8,8 +8,7 @@ It often requires a combination of software development, machine learning and da
 •	Speech Recognition: ASR (Automatic Speech Recognition) system such as Google’s Speech-to-text or Mozilla Deep Speech for voice recognition.
 •	Voice Synthesis: Text-to-speech (TTS) engines like Google Text-to-speech.
 ## Organization
-•	Organization: Stuvalley Technology
-•	Mentors: Mr. Ayushman Pranav, Dr. Pankaj Mishra
+•	Organization: Stuvalley Technology •	Mentors: Mr. Ayushman Pranav, Dr. Pankaj Mishra
 ## Observation
 •	A well-designed Jarvis AI system can significantly enhance efficiency by automating routine tasks, managing schedules, and responding to queries. Users may observe time savings and reduced manual efforts
 •	The accuracy of voice recognition can impact user satisfaction. An observation might include improvements in voice recognition over time, leading to more accurate responses.
